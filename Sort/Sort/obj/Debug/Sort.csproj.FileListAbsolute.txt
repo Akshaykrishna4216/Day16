@@ -1,0 +1,8 @@
+D:\UST\Day13\Sort\Sort\bin\Debug\Sort.exe.config
+D:\UST\Day13\Sort\Sort\bin\Debug\Sort.exe
+D:\UST\Day13\Sort\Sort\bin\Debug\Sort.pdb
+D:\UST\Day13\Sort\Sort\obj\Debug\Sort.csproj.AssemblyReference.cache
+D:\UST\Day13\Sort\Sort\obj\Debug\Sort.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day13\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+D:\UST\Day13\Sort\Sort\obj\Debug\Sort.exe
+D:\UST\Day13\Sort\Sort\obj\Debug\Sort.pdb

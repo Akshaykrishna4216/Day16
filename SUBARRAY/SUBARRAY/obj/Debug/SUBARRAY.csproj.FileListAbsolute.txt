@@ -1,0 +1,8 @@
+D:\UST\Day13\SUBARRAY\SUBARRAY\bin\Debug\SUBARRAY.exe.config
+D:\UST\Day13\SUBARRAY\SUBARRAY\bin\Debug\SUBARRAY.exe
+D:\UST\Day13\SUBARRAY\SUBARRAY\bin\Debug\SUBARRAY.pdb
+D:\UST\Day13\SUBARRAY\SUBARRAY\obj\Debug\SUBARRAY.csproj.AssemblyReference.cache
+D:\UST\Day13\SUBARRAY\SUBARRAY\obj\Debug\SUBARRAY.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day13\SUBARRAY\SUBARRAY\obj\Debug\SUBARRAY.csproj.CoreCompileInputs.cache
+D:\UST\Day13\SUBARRAY\SUBARRAY\obj\Debug\SUBARRAY.exe
+D:\UST\Day13\SUBARRAY\SUBARRAY\obj\Debug\SUBARRAY.pdb
